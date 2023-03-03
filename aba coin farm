@@ -16,11 +16,11 @@ end
 local function serverHop()
     if syn then
         syn.queue_on_teleport(
-            'loadstring(game:HttpGet("https://raw.githubusercontent.com/RZiln/GayBloxScripts/master/ABA/main.lua", true))()'
+            'https://raw.githubusercontent.com/ford-scripts/ford-scripts/main/aba%20coin%20farm", true))()'
         )
     else
         queue_on_teleport(
-            'loadstring(game:HttpGet("https://raw.githubusercontent.com/RZiln/GayBloxScripts/master/ABA/main.lua", true))()'
+            'https://raw.githubusercontent.com/ford-scripts/ford-scripts/main/aba%20coin%20farm", true))()'
         )
     end
 end
