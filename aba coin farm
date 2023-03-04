@@ -3,7 +3,7 @@ repeat
 until game.Loaded
 game:GetService("RunService"):Set3dRenderingEnabled(false)
 --setfpscap(60)
-task.wait(5)
+--task.wait(5)
 if game.PlaceId == 5411459567 then
     repeat
         task.wait(1)
