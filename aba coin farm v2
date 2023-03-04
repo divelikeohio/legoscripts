@@ -16,11 +16,11 @@ end
 local function serverHop()
     if syn then
         syn.queue_on_teleport(
-            'https://raw.githubusercontent.com/ford-scripts/ford-scripts/main/aba%20coin%20farm", true))()'
+            'https://raw.githubusercontent.com/ford-scripts/ford-scripts/main/aba%20coin%20farm%20v2", true))()'
         )
     else
         queue_on_teleport(
-            'https://raw.githubusercontent.com/ford-scripts/ford-scripts/main/aba%20coin%20farm", true))()'
+            'https://raw.githubusercontent.com/ford-scripts/ford-scripts/main/aba%20coin%20farm%20v2", true))()'
         )
     end
 end
