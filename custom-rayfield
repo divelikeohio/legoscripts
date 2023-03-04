@@ -12,7 +12,7 @@ iRay  | Programming
 
 local Release = "v0.1"
 local NotificationDuration = 6.5
-local RayfieldFolder = "Sneak Hub"
+local RayfieldFolder = "Rayfield"
 local ConfigurationFolder = RayfieldFolder.."/Configurations"
 local ConfigurationExtension = ".snhks"
 local WatermarkName = "Sneak Hub"
